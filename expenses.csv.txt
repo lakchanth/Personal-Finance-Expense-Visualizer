@@ -1,0 +1,10 @@
+Date,Category,Amount,Description
+2026-09-01,Food,45.50,Grocery shopping
+2026-09-02,Transport,15.00,Subway pass
+2026-09-05,Food,22.30,Coffee and lunch
+2026-09-10,Entertainment,60.00,Movie night
+2026-09-12,Utilities,120.00,Electricity bill
+2026-09-15,Food,35.00,Dinner with friends
+2026-09-18,Shopping,85.00,New shoes
+2026-09-20,Transport,25.00,Gas
+2026-09-25,Utilities,45.00,Internet bill
